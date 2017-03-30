@@ -1,0 +1,740 @@
+2017-03-30 10:03:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:03:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:03:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:06:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:06:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:06:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:07:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:07:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:08:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:08:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:09:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:12:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:12:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:13:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:13:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:13:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:13:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:14:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:15:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:15:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:15:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:15:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:31:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:31:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:31:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:31:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:32:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:32:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:32:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:32:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:33:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:33:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:34:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:34:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/js/app.js
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:52:35 Error: [MissingViewException] View file "Pages/display.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/display.ctp',
+)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 10:52:41 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-03-30 10:52:42 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-03-30 10:52:45 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-03-30 10:53:12 Error: [MissingViewException] View file "Pages/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/index.ctp',
+)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 10:53:13 Error: [MissingViewException] View file "Pages/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/index.ctp',
+)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 10:53:17 Error: [MissingViewException] View file "Pages/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/index.ctp',
+)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 10:53:29 Error: [MissingViewException] View file "Pages/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/index.ctp',
+)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 10:53:30 Error: [MissingViewException] View file "Pages/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/index.ctp',
+)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 10:53:44 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/post/check
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:56:44 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/post/check
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:56:55 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/post/check
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:57:21 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/post/check
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:57:23 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/post/check
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:57:23 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/post/check
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:57:24 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/post/check
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:57:43 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/post/check
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-30 10:58:08 Error: [MissingViewException] View file "Pages/transaction.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/transaction.ctp',
+)
+Request URL: /pay-order/transacao
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 10:58:20 Error: [MissingViewException] View file "Pages/transaction.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/transaction.ctp',
+)
+Request URL: /pay-order/transacao
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 11:11:51 Error: Fatal Error (64): Cannot use [] for reading in [/home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php, line 16]
+2017-03-30 11:11:51 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/home/renan/Pro...', 16)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/home/renan/Pro...', 16, Array)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/home/renan/Pro...', 16, Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-30 11:46:44 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /pay-order/transacao
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(37): Xml::toArray(Object(HttpSocketResponse))
+#1 [internal function]: PagesController->transaction()
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#5 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-03-30 11:47:28 Error: [XmlException] Invalid input.
+Request URL: /pay-order/transacao
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Utility/Xml.php(102): Xml::fromArray(Array, Array)
+#1 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(37): Xml::build(Object(HttpSocketResponse))
+#2 [internal function]: PagesController->transaction()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#6 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2017-03-30 11:48:05 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /pay-order/transacao
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(37): Xml::toArray(Object(HttpSocketResponse))
+#1 [internal function]: PagesController->transaction()
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#5 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-03-30 11:49:39 Error: [XmlException] The input is not instance of SimpleXMLElement, DOMDocument or DOMNode.
+Request URL: /pay-order/transacao
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(37): Xml::toArray('<?xml version="...')
+#1 [internal function]: PagesController->transaction()
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#5 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-03-30 11:53:10 Error: Fatal Error (4): syntax error, unexpected 'debug' (T_STRING) in [/home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php, line 39]
+2017-03-30 11:53:10 Error: [FatalErrorException] syntax error, unexpected 'debug' (T_STRING)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/renan/Pro...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/renan/Pro...', 39, Array)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/renan/Pro...', 39, Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-30 11:53:19 Error: Fatal Error (4): syntax error, unexpected 'debug' (T_STRING) in [/home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php, line 39]
+2017-03-30 11:53:19 Error: [FatalErrorException] syntax error, unexpected 'debug' (T_STRING)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/renan/Pro...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/renan/Pro...', 39, Array)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/renan/Pro...', 39, Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
