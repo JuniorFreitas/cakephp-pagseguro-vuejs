@@ -71,9 +71,9 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => '',
-		'login' => '',
-		'password' => '',
+		'host' => 'localhost',
+		'login' => 'root',
+		'password' => 'admin',
 		'database' => '',
 		'prefix' => '',
 		//'encoding' => 'utf8',

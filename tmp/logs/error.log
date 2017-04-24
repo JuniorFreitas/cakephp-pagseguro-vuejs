@@ -738,3 +738,186 @@ Stack Trace:
 #3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(906): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2017-03-31 08:09:54 Error: [XmlException] XML cannot be read.
+Request URL: /pay-order/session
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(36): Xml::build('Unauthorized')
+#1 [internal function]: PagesController->getSessionId()
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#5 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-03-31 15:14:22 Error: [MissingControllerException] Controller class {{$product.photo}}Controller could not be found.
+Exception Attributes: array (
+  'class' => '{{$product.photo}}Controller',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/%7B%7B$product.photo%7D%7D
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-31 15:14:22 Error: [MissingControllerException] Controller class {{$product.photo}}Controller could not be found.
+Exception Attributes: array (
+  'class' => '{{$product.photo}}Controller',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/%7B%7B$product.photo%7D%7D
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-31 15:14:45 Error: [MissingControllerException] Controller class {{$data.product.image}}Controller could not be found.
+Exception Attributes: array (
+  'class' => '{{$data.product.image}}Controller',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/%7B%7B$data.product.image%7D%7D
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-31 15:15:11 Error: [MissingControllerException] Controller class {{$data.product.image}}Controller could not be found.
+Exception Attributes: array (
+  'class' => '{{$data.product.image}}Controller',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/%7B%7B$data.product.image%7D%7D
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-31 15:15:11 Error: [MissingControllerException] Controller class {{$data.product.image}}Controller could not be found.
+Exception Attributes: array (
+  'class' => '{{$data.product.image}}Controller',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/%7B%7B$data.product.image%7D%7D
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-31 15:15:24 Error: [MissingControllerException] Controller class {{$data.product.image}}Controller could not be found.
+Exception Attributes: array (
+  'class' => '{{$data.product.image}}Controller',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/%7B%7B$data.product.image%7D%7D
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-31 15:15:25 Error: [MissingControllerException] Controller class {{$data.product.image}}Controller could not be found.
+Exception Attributes: array (
+  'class' => '{{$data.product.image}}Controller',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/%7B%7B$data.product.image%7D%7D
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-31 15:20:11 Error: [MissingControllerException] Controller class [objectObject]Controller could not be found.
+Exception Attributes: array (
+  'class' => '[objectObject]Controller',
+  'plugin' => NULL,
+)
+Request URL: /pay-order/[object%20Object]
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-31 16:28:35 Error: Fatal Error (1): Call to a member function post() on null in [/home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php, line 96]
+2017-03-31 16:28:35 Error: [FatalErrorException] Call to a member function post() on null
+Request URL: /pay-order/transacao
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/renan/Pro...', 96)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/renan/Pro...', 96, Array)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/renan/Pro...', 96, Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-31 16:29:30 Error: [XmlException] XML cannot be read.
+Request URL: /pay-order/transacao
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(100): Xml::build('Unauthorized')
+#1 [internal function]: PagesController->transaction()
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#5 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-03-31 16:30:05 Error: [XmlException] Invalid input.
+Request URL: /pay-order/transacao
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Utility/Xml.php(102): Xml::fromArray(Array, Array)
+#1 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(100): Xml::build(Object(HttpSocketResponse))
+#2 [internal function]: PagesController->transaction()
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#6 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2017-04-12 16:33:07 Error: Fatal Error (4): syntax error, unexpected '{', expecting ']' in [/home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php, line 45]
+2017-04-12 16:33:07 Error: [FatalErrorException] syntax error, unexpected '{', expecting ']'
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/renan/Pro...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/renan/Pro...', 45, Array)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/renan/Pro...', 45, Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-04-12 16:47:59 Error: Fatal Error (4): syntax error, unexpected 'return' (T_RETURN) in [/home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php, line 45]
+2017-04-12 16:47:59 Error: [FatalErrorException] syntax error, unexpected 'return' (T_RETURN)
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/renan/Pro...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/renan/Pro...', 45, Array)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/renan/Pro...', 45, Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-04-19 14:52:56 Error: [XmlException] XML cannot be read.
+Request URL: /pay-order/session
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(43): Xml::build('{\n    "session"...')
+#1 [internal function]: PagesController->getSessionId()
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#5 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-04-19 14:53:11 Error: [XmlException] XML cannot be read.
+Request URL: /pay-order/session
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(43): Xml::build('{\n    "session"...')
+#1 [internal function]: PagesController->getSessionId()
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#5 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-04-19 14:53:32 Error: [XmlException] XML cannot be read.
+Request URL: /pay-order/session
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(43): Xml::build('{\n    "session"...')
+#1 [internal function]: PagesController->getSessionId()
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#5 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-04-19 14:53:42 Error: [XmlException] XML cannot be read.
+Request URL: /pay-order/session
+Stack Trace:
+#0 /home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php(43): Xml::build('{\n    "session"...')
+#1 [internal function]: PagesController->getSessionId()
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 /home/renan/Projects/cakephp/2.6/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#5 /home/renan/Projects/Solutudo/pay-order/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2017-04-19 14:54:13 Error: Fatal Error (4): syntax error, unexpected ''environment'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php, line 35]
+2017-04-19 14:54:13 Error: [FatalErrorException] syntax error, unexpected ''environment'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/renan/Pro...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/renan/Pro...', 35, Array)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/renan/Pro...', 35, Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

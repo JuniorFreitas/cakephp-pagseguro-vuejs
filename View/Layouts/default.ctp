@@ -24,6 +24,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 		echo $this->Html->css(
 			array(
 				'materialize.min',
+				'https://fonts.googleapis.com/icon?family=Material+Icons'
 			)
 		);
 		echo $this->Html->script(
