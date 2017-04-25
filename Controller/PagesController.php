@@ -29,7 +29,7 @@ class PagesController extends AppController {
 		$HttpSocket = new HttpSocket();
 
 		$data = array(
-			'key' => 'dde9d881320ed6877933ed08aa20bc81',
+			'key' => 'ab7cf48cdf9923a877fe1cb327f8c8a9',
 			'email' => $this->pagEmail,
 			'token' => $this->pagToken,
 			'environment' => 'sandbox'
@@ -50,7 +50,7 @@ class PagesController extends AppController {
 			$data = $this->request->data;
 
 			$this->postParams = array(
-				'key' => 'dde9d881320ed6877933ed08aa20bc81',
+				'key' => 'ab7cf48cdf9923a877fe1cb327f8c8a9',
 				'email' => $this->pagEmail,
 				'token' => $this->pagToken,
 				'environment' => 'sandbox',
@@ -58,11 +58,14 @@ class PagesController extends AppController {
 				'paymentMethod' => 'creditCard',
 				'paymentMode' => 'default',
 				'senderHash' => $data['userHash'], // ID do vendedor, fingerprint gerado pelo JS do pag
+				'items' => 0
 
-				'itemId1' => $data['product'][0]['id'], // [Livre, com limite de 100 caracteres.]
-				'itemName1' => $data['product'][0]['name'], // [Livre, com limite de 100 caracteres.]
-				'itemUnitValue1' => 50.00, //$data['product'][0]['pricePerUnity'], // [Preço unitário] decimal + 2 casas decimais por ponto
-				'itemQuantity1' => 2, // quant DE ITENS SENDO COMPRADOS 1~~999
+					'itemId' => $data['product'][0]['id'], // [Livre, com limite de 100 caracteres.]
+					'itemName' => $data['product'][0]['name'], // [Livre, com limite de 100 caracteres.]
+					'itemUnitValue' => 50.00, //$data['product'][0]['pricePerUnity'], // [Preço unitário] decimal + 2 casas decimais por ponto
+					'itemQuantity' => 2, // quant DE ITENS SENDO COMPRADOS 1~~999,
+				)
+
 				//'extraAmount' => $data[''], //valor extra a ser cobrado
 				'senderEmail' => $data['email'], //email do comprador
 				'senderName' => $data['userName'], // Nome completo do comprador (minimo de 2 sequencias de caracteres, limite de 50)
