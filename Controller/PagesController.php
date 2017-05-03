@@ -6,8 +6,8 @@ App::uses('Xml', 'Utility');
 
 class PagesController extends AppController {
 
-	public $pagEmail = 'naanzitos@gmail.com';
-	public $pagToken = 'E1A2326A3D194E3B9F0510CB19579104';
+	public $pagEmail = 'ti@solutudo.com.br';
+	public $pagToken = '5B7A5552D5C0460D875A64AD41E059DB';
 	public $api = array(
 		// 'sessions' => 'https://ws.sandbox.pagseguro.uol.com.br/v2/sessions',
 		// 'transaction' => 'https://ws.sandbox.pagseguro.uol.com.br/v2/transactions'
@@ -58,11 +58,20 @@ class PagesController extends AppController {
 				'paymentMethod' => 'creditCard',
 				'paymentMode' => 'default',
 				'senderHash' => $data['userHash'], // ID do vendedor, fingerprint gerado pelo JS do pag
-
-				'itemId1' => $data['product'][0]['id'], // [Livre, com limite de 100 caracteres.]
-				'itemName1' => $data['product'][0]['name'], // [Livre, com limite de 100 caracteres.]
-				'itemUnitValue1' => 50.00, //$data['product'][0]['pricePerUnity'], // [Preço unitário] decimal + 2 casas decimais por ponto
-				'itemQuantity1' => 2, // quant DE ITENS SENDO COMPRADOS 1~~999
+				'items' => [
+					1 => [
+						'itemId' => $data['product'][0]['id'], // [Livre, com limite de 100 caracteres.]
+						'itemName' => $data['product'][0]['name'], // [Livre, com limite de 100 caracteres.]
+						'itemUnitaryValue' => 50.00, //$data['product'][0]['pricePerUnity'], // [Preço unitário] decimal + 2 casas decimais por ponto
+						'itemCount' => 2, // quant DE ITENS SENDO COMPRADOS 1~~99
+					],
+					2 => [
+						'itemId' => '231', // [Livre, com limite de 100 caracteres.]
+						'itemName' => 'teste', // [Livre, com limite de 100 caracteres.]
+						'itemUnitaryValue' => 50.00, //$data['product'][0]['pricePerUnity'], // [Preço unitário] decimal + 2 casas decimais por ponto
+						'itemCount' => 4, // quant DE ITJENS SENDO COMPRADOS 1~~99
+					],
+				],
 				//'extraAmount' => $data[''], //valor extra a ser cobrado
 				'senderEmail' => $data['email'], //email do comprador
 				'senderName' => $data['userName'], // Nome completo do comprador (minimo de 2 sequencias de caracteres, limite de 50)
@@ -81,8 +90,8 @@ class PagesController extends AppController {
 				'shippingComplement' => $data['complement'],// Complemento do endereço de envio
 
 				'creditCardToken' => $data['crdToken'], // Token de cartão de credito
-				'installmentQuantity' => 1, //Qtd de parcelas escolhidas 1-18
-				'installmentValue' => 197.50, //valor das parcelas 2 casas decimais por potno
+				'installmentCount' => 1, //Qtd de parcelas escolhidas 1-18
+				'installmentValue' => '397.50', //valor das parcelas 2 casas decimais por potno
 
 				'cardHolderName' => $data['crdName'], //Nome impresso no cartão 1-50 carac
 				'cardHolderBirthdate' => '13/06/1996', // Data de nascimento do dono do cartão
@@ -99,13 +108,24 @@ class PagesController extends AppController {
 				'billingState' => $data['state'], // estado de cobrança
 				'billingCountry' => 'BRA', // país de cobrança (BRA)
 
-				'extraAmount' => 97.50 // país de cobrança (BRA)
+				// Optional parameters
+				'description' => 'hueheuheue',
+				'extraAmount' => 97.50, // país de cobrança (BRA
+				'buyerUserId' => '132',
+				'sellerUserId' => '133',
+				'sellerAdvId' => '109',
+				'orderId' => '1258',
+				'orderType' => 'ShpProduct',
+				'reference' => 'STDSHDPRODUCT',
+				'sipphingAddressComment' => 'Entregar pelas portas dos fundos',
+				'billingAddressReference' => 'Perto do mercado',
 			);
 
 			$paymentResponse = $HttpSocket->post(
 				$this->api['transaction'],
 				$this->postParams
 			);
+
 			// $paymentStatus = Xml::toArray(Xml::build($paymentResponse));
 			// debug($paymentStatus);
 			debug($paymentResponse);

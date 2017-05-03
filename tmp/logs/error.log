@@ -921,3 +921,13 @@ Stack Trace:
 #3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(906): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2017-04-27 09:13:27 Error: Fatal Error (4): syntax error, unexpected ''buyerUserId'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/home/renan/Projects/Solutudo/pay-order/Controller/PagesController.php, line 104]
+2017-04-27 09:13:27 Error: [FatalErrorException] syntax error, unexpected ''buyerUserId'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /pay-order/
+Stack Trace:
+#0 /home/renan/Projects/cakephp/2.6/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/renan/Pro...', 104)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/renan/Pro...', 104, Array)
+#2 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/renan/Pro...', 104, Array)
+#3 /home/renan/Projects/cakephp/2.6/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
