@@ -172,6 +172,7 @@
 				userHash: '',
 				userName: 'Renan Nogueira',
 				cpf: '43238730851',
+<<<<<<< HEAD
 				email: 'c02489589859861554154@sandbox.pagseguro.com.br',
 				phone: '997089832',
 				cep: '18606201',
@@ -179,6 +180,15 @@
 				address: 'Rua Gerson Giandoni',
 				addressNumber: '132',
 				complement: 'Casa',
+=======
+				email: 'c44073650536906141700@sandbox.pagseguro.com.br',
+				phone: '997089832',
+				cep: '18606201',
+				district: 'Vila Assumpção',
+				address: 'Rua gerson giandoni',
+				addressNumber: '132',
+				complement: 'casa',
+>>>>>>> 911901fe6093897b28f855903ea33656c891f638
 				city: 'Botucatu',
 				state: 'SP',
 				crdBrand: '',
